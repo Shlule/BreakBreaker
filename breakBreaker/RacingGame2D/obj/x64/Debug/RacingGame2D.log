@@ -1,0 +1,24 @@
+﻿  Main.cpp
+D:\Elouan\Git\NecessaryGame\breakBreaker\RacingGame2D\Main.cpp(40,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Elouan\Git\NecessaryGame\breakBreaker\RacingGame2D\Main.cpp(41,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Elouan\Git\NecessaryGame\breakBreaker\RacingGame2D\Main.cpp(42,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Elouan\Git\NecessaryGame\breakBreaker\RacingGame2D\Main.cpp(43,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Elouan\Git\NecessaryGame\breakBreaker\RacingGame2D\Main.cpp(44,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Elouan\Git\NecessaryGame\breakBreaker\RacingGame2D\Main.cpp(45,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Elouan\Git\NecessaryGame\breakBreaker\RacingGame2D\Main.cpp(46,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Elouan\Git\NecessaryGame\breakBreaker\RacingGame2D\Main.cpp(47,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Elouan\Git\NecessaryGame\breakBreaker\RacingGame2D\Main.cpp(48,41): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\Elouan\Git\NecessaryGame\breakBreaker\RacingGame2D\Main.cpp(48,41): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Elouan\Git\NecessaryGame\breakBreaker\RacingGame2D\Main.cpp(48,62): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\Elouan\Git\NecessaryGame\breakBreaker\RacingGame2D\Main.cpp(48,62): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Elouan\Git\NecessaryGame\breakBreaker\RacingGame2D\Main.cpp(49,41): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\Elouan\Git\NecessaryGame\breakBreaker\RacingGame2D\Main.cpp(49,41): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Elouan\Git\NecessaryGame\breakBreaker\RacingGame2D\Main.cpp(49,62): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\Elouan\Git\NecessaryGame\breakBreaker\RacingGame2D\Main.cpp(49,62): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Elouan\Git\NecessaryGame\breakBreaker\RacingGame2D\Main.cpp(66,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Elouan\Git\NecessaryGame\breakBreaker\RacingGame2D\Main.cpp(86,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Elouan\Git\NecessaryGame\breakBreaker\RacingGame2D\Main.cpp(87,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Elouan\Git\NecessaryGame\breakBreaker\RacingGame2D\Main.cpp(96,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Elouan\Git\NecessaryGame\breakBreaker\RacingGame2D\Main.cpp(97,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Elouan\Git\NecessaryGame\breakBreaker\RacingGame2D\Main.cpp(61): warning C4715: 'collisionAABB': not all control paths return a value
+  RacingGame2D.vcxproj -> D:\Elouan\Git\NecessaryGame\breakBreaker\bin\Debug\RacingGame2D.exe
